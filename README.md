@@ -1,1 +1,1 @@
-# Pointers-Arrays EX 
+# Pointers-Arrays using C EX 
